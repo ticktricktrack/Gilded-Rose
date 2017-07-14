@@ -4,6 +4,7 @@ This Ruby version of The Gilded Rose is scraped together and polished a little f
 - https://github.com/amckinnell/Gilded-Rose-Ruby
 - https://github.com/jreut/gilded-rose
 - https://github.com/NotMyself/GildedRose
+- the Python version from https://github.com/matthewmorgan/gilded-rose-python-with-tests
 - and of course the great Sandy Metz https://www.youtube.com/watch?v=8bZh5LMaSmE&t=637s
 
 I suggest giving it a go for half an hour, then watching the video by Sandi Metz. Feel the pain first!
